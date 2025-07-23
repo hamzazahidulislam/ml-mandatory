@@ -10,4 +10,9 @@
 
 ## After Active base conda environment 
 
-``
+`conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter`
+
+## If you miss something later, you use this command to download 
+`conda install jupyter`
+
+
