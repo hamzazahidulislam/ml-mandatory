@@ -20,4 +20,7 @@
 ## If you miss something later, you use this command to download 
 `conda install jupyter`
 
+## Run Jupyter Notebook
+`jupyter notebook`
+
 
