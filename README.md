@@ -12,6 +12,11 @@
 
 `conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter`
 
+## Shift your base conda environment to your specific project conda environment 
+
+`conda activate /home/user/Desktop/test-ml/env`
+
+
 ## If you miss something later, you use this command to download 
 `conda install jupyter`
 
